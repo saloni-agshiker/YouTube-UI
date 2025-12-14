@@ -14,3 +14,5 @@ I learned about:
 - Flexbox
 - How to ensure responsive design
 - CSS properties and Box Model
+
+![App Screenshot](YouTube-UI-Screenshot.png)
